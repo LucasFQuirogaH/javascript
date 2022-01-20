@@ -1,0 +1,4 @@
+Puede usarse en front y back end
+node js para backend
+angular, react y vuejs para el front end
+
